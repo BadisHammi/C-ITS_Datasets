@@ -1,11 +1,3 @@
-This folder contains two datasets: a vehicles' urban moility dataset and a vehicles' highway mobility dataset, each for a region of 1 KM2 for 24 hours, extracted from the Koln Dataset of the TAPASCologne Project. Each file represents the data collected from a single vehicle. The name of a file is the identifier of the vehicle.
-TAPASCologne is an initiative of the Institute of Transportation Systems at the German Aerospace Center (ITS-DLR), aimed at reproducing, with the highest level of realism possible, car traffic in the greater urban area of the city of Cologne, in Germany.
-
-Seven parameters are provided :
-- time (with 1-second granularity)
-- vehicle identifier
-- position on the two-dimensional plane (x and y coordinates in meters)
-- speed (im meters per second)
-- acceleration
-- jerk: jerk or jolt is the rate at which an object's acceleration changes with respect to time. It is a vector quantity (having both magnitude and direction)
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad34f0541fe3e844e8e72f446b4360ea8afcb707b977632b21ab65981d3cdc3b
+size 951

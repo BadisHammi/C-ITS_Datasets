@@ -1,0 +1,4 @@
+*.CSV filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.* filter=lfs diff=lfs merge=lfs -text
+highwayTracesFor24Hours filter=lfs diff=lfs merge=lfs -text
