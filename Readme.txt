@@ -1,4 +1,5 @@
-This folder contains two datasets: a vehicles' urban moility dataset and a vehicles' highway mobility dataset, each for a region of 1 KM2 for 24 hours, extracted from the Koln Dataset of the TAPASCologne Project. Each file represents the data collected from a single vehicle. The name of a file is the identifier of the vehicle.
+This folder contains multiple datasets: vehicles' urban moility dataset and  vehicles' highway mobility dataset, each for a region of 1 KM2 for 24 hours, extracted from the Koln Dataset of the TAPASCologne Project. The datasets are presented in two formats: (1) collected data by vehicle and (2) collected data on a region defined where the activity of the vehicles is presented chronologically.
+
 TAPASCologne is an initiative of the Institute of Transportation Systems at the German Aerospace Center (ITS-DLR), aimed at reproducing, with the highest level of realism possible, car traffic in the greater urban area of the city of Cologne, in Germany.
 
 Seven parameters are provided :
