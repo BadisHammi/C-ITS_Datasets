@@ -10,5 +10,4 @@ Seven parameters are provided :
 - acceleration
 - jerk: jerk or jolt is the rate at which an object's acceleration changes with respect to time. It is a vector quantity (having both magnitude and direction)
 
-
 https://ieeexplore.ieee.org/document/9757751
